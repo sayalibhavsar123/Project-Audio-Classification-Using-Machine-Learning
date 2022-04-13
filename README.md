@@ -5,6 +5,7 @@ https://urbansounddataset.weebly.com/urbansound8k.html
 
 Problem statement:
 Audio classification using neural network.
+
 Abstract:
 The amount of audio data on public networks like Internet is increasing in huge volume daily. So, to access these media, we need to efficiently index and annotate them. Due to non-stationary nature and discontinuities present in the audio signal, segmentation and classification of audio signal has really become a challenging task. Therefore, the aim of this project is to apply the deep learning techniques to classify environmental sounds, specifically focusing on identifying the urban sounds. Given an audio sample of some category with a certain duration in .wav extension and determine whether it contains target urban sounds. It lies under the supervised machine learning category, so we have a dataset as well as a target category. It involves learning to classify sounds and to predict the category of that sound.
 
