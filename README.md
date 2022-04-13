@@ -16,6 +16,7 @@ The amount of audio data on public networks like Internet is increasing in huge 
 
 The primary goal of this project is to take an audio file dataset as an input. Extract the features from the audio files and from those extracted features train the machine learning model. The machine learning model is further used to predict the class of the audio files. The prediction given by the model will give user an insight of the type of an audio file.
 
- **Workflow:** ![image](https://user-images.githubusercontent.com/91602158/163177247-104a2fdf-23ca-4f39-91ba-51e5fb388e16.png)
+ **Workflow:** ![image](https://user-images.githubusercontent.com/91602158/163178744-7b3ba9b7-eec9-4e16-a95d-ce12af48055b.png)
+
 
 
